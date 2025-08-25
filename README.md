@@ -1,0 +1,2 @@
+# breast-cancer-shap
+This project benchmarks multiple machine learning models for breast cancer diagnosis using the Wisconsin Breast Cancer dataset, with a focus on model explainability through SHAP (SHapley Additive exPlanations).
